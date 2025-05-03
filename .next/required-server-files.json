@@ -95,7 +95,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\Edgar\\Desktop\\next\\nextjs-dashboard",
+    "outputFileTracingRoot": "C:\\Users\\Kaseres\\Desktop\\nextEdgarguiacurso",
     "experimental": {
       "nodeMiddleware": false,
       "cacheLife": {
@@ -153,7 +153,7 @@
       "middlewarePrefetch": "flexible",
       "optimisticClientCache": true,
       "manualClientBasePath": false,
-      "cpus": 7,
+      "cpus": 3,
       "memoryBasedWorkersCount": false,
       "imgOptConcurrency": null,
       "imgOptTimeoutInSeconds": 7,
@@ -279,10 +279,10 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "C:\\Users\\Edgar\\Desktop\\next\\nextjs-dashboard"
+      "root": "C:\\Users\\Kaseres\\Desktop\\nextEdgarguiacurso"
     }
   },
-  "appDir": "C:\\Users\\Edgar\\Desktop\\next\\nextjs-dashboard",
+  "appDir": "C:\\Users\\Kaseres\\Desktop\\nextEdgarguiacurso",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",

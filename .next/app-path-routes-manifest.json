@@ -4,9 +4,9 @@
   "/seed/route": "/seed",
   "/login/page": "/login",
   "/page": "/",
+  "/dashboard/customers/page": "/dashboard/customers",
   "/dashboard/invoices/[id]/edit/page": "/dashboard/invoices/[id]/edit",
   "/dashboard/invoices/create/page": "/dashboard/invoices/create",
   "/dashboard/(overview)/page": "/dashboard",
-  "/dashboard/customers/page": "/dashboard/customers",
   "/dashboard/invoices/page": "/dashboard/invoices"
 }
